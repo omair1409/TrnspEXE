@@ -13,6 +13,8 @@ In this project, I am trying to solve the basic transportation problem using OR-
 - ***MatplotLib & Seaborn***: for visualization
 - ***OR-Tools***: The Engine to solve the LP problem
 
+![](https://github.com/omair1409/TrnspEXE/blob/main/Trnsp.gif)
+
 ## Notes
 - **Prepare the CSV file as the following**:
 - the first row has the names of the destinations
